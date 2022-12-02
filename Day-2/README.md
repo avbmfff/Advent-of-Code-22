@@ -21,7 +21,6 @@ A Y
 B X
 
 C Z
-----
 
 This strategy guide predicts and recommends the following:
 
